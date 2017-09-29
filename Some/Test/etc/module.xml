@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<config xlmns:xsi="http://www.w3.org/2001/MLSchema-instance"
-		xsi:noTestSchemaLocation="urn:magento:framwork:Module/etc/module.xsd">
-	<module name="Some_Test" setup_version="2.0.0" active="true">
+<config xmlns:xsi="http://www.w3.org/2001/MLSchema-instance"
+		xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+	<module name="Some_Test" setup_version="1.0.0" >
 	</module>
 </config>
